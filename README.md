@@ -71,14 +71,6 @@
 
 <br clear="both">
 
-<div align="center">
-  <img height="200" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif"  />
-</div>
-
-###
-
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/Adriano2607/Adriano2607/output/snake.svg" alt="Snake animation" />
 
 ###
