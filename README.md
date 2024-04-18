@@ -1,8 +1,4 @@
-<h1 align="left">👋👋Adriano, Estudante de Desenvolvimento de Sistemas</h1>
-
-###
-
-<img align="right" height="170" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif"  />
+<h1 align="center">👋👋Adriano, Estudante de Desenvolvimento de Sistemas</h1>
 
 ###
 
@@ -62,6 +58,12 @@
 
 ###
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Adriano2607/Adriano2607/output/snake.svg" alt="Snake animation" />
+
+###
+
 <div align="center">
   <a href="https://discordapp.com/users/208430166987374592" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -75,6 +77,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Adriano2607/Adriano2607/output/snake.svg" alt="Snake animation" />
+<img align="left" height="200" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif"  />
 
 ###
