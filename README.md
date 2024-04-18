@@ -64,6 +64,12 @@
 
 ###
 
+<br clear="both">
+
+<img align="left" height="200" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif"  />
+
+###
+
 <div align="center">
   <a href="https://discordapp.com/users/208430166987374592" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
@@ -75,8 +81,8 @@
 
 ###
 
-<br clear="both">
-
-<img align="left" height="200" src="https://dl.openseauserdata.com/cache/originImage/files/527a9783c28c70962773a73db797ea4d.gif"  />
+<div align="center">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4" alt="Layout with last medium posts"  />
+</div>
 
 ###
